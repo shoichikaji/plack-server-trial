@@ -45,6 +45,7 @@
             "Data::Dump" : "0",
             "HTTP::Parser::XS" : "0",
             "HTTP::Status" : "0",
+            "Parallel::Prefork" : "0",
             "Plack" : "0",
             "perl" : "5.008001"
          }
